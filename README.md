@@ -4,6 +4,7 @@ It's main role is to work on vanilla Javascript and create min projects to reall
 Day 1 is in it's own repo
 Day 2 was a javascript clock done on 12/30/2019
 Day 3 was working on javaScript variables done on 12/31 and was working on scoped css variables and js 
+<br>
 day 4
 day 5
 day 6
