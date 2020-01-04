@@ -12,7 +12,7 @@ day 4 working on using arrays and going into that more than building something. 
 <br>
 day 5 Actually made a project today. Used flexbox for this project which I haven't used yet so that was new. Had a few errors but It turned out fine once I figured them out. 
 <br>
-day 6
+day 6 Worked with Ajax and api. This went over a few things I've never heard of (like regex) so will have to do some research to learn some more about all of this.
 <br>
 day 7
 <br>
