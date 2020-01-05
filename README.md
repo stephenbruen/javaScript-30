@@ -14,9 +14,9 @@ day 5 Actually made a project today. Used flexbox for this project which I haven
 <br>
 day 6 Worked with Ajax and api. This went over a few things I've never heard of (like regex) so will have to do some research to learn some more about all of this.
 <br>
-day 7
+day 7 worked on more array work and es6 arrow functions. Nothing built just like day 4 looks like the next thing will be more of a project.
 <br>
-day 8
+day 8 maded a html canvas where you can paint differnet colors. Kinda like ms paint minus a few things(maybe i can add to that). Worked on this the same day as day 7 since it was so short!
 <br>
 day 9
 <br>
