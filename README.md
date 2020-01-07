@@ -18,7 +18,7 @@ day 7 worked on more array work and es6 arrow functions. Nothing built just like
 <br>
 day 8 maded a html canvas where you can paint differnet colors. Kinda like ms paint minus a few things(maybe i can add to that). Worked on this the same day as day 7 since it was so short!
 <br>
-day 9
+day 9 Wes taught us some dev tricks, I've only ever used console.log and console.table. So he went over some tricks that you may use. A couple of them were de-bugging tips which I've used since learning since I'm having trouble with one of my projects.
 <br>
 day 10
 <br>
