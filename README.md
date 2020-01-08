@@ -24,7 +24,7 @@ day 10
 <br>
 day 11
 <br>
-day 12
+day 12 skipped ahead since I had a little bit of time to work on this so I picked a smaller project. The cornify thing was intresting that was a feature in javascript for some reason. mainly went over key detection. 
 <br>
 day 13
 <br>
